@@ -325,7 +325,7 @@ function stopTimer() {
  * Creates statistic text and sets to modalMsg
  */
 function buildModalMsg() {
-    modalMsg = "<p>Moves made: " + moves + " | Time taken: " + min + " minutes " + sec + " seconds!</p>" + "<p>Star Rating: " + starCount + " star(s)</p>";
+    modalMsg = "<p>Moves made: " + moves + " | Time taken: " + min + " minutes " + secNew + " seconds!</p>" + "<p>Star Rating: " + starCount + " star(s)</p>";
 }
 
 
@@ -419,6 +419,7 @@ function reInit() {
     moves = 0;
     setMoves();
     match = 0;
+    resetTimer();
     timerDelay = 0;
 }
 
@@ -441,7 +442,6 @@ function resetStarsScore() {
  * Event - when "Play Again" is clicked
  */
 function restartGame() {
-    resetTimer();
     resetModalStat();
     resetStarsScore();
     setDeck();
