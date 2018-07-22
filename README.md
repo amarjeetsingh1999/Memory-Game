@@ -13,13 +13,13 @@
   - Ok to close the modal and return to the completed game screen
   - Play again to restart the game
 
-# Fonts Source
+## Fonts Source
 * [Google Fonts](https://fonts.google.com/)
 
-# Icons Source
+## Icons Source
 * [Font Awesome](https://fontawesome.com/v4.7.0/)
 
-# Animations Source
+## Animations Source
 * https://daneden.github.io/animate.css/
 
-GitHub pages link: [Memory Game](https://amarjeetsingh1999.github.io/Memory-Game/)
+### GitHub pages link: [Memory Game](https://amarjeetsingh1999.github.io/Memory-Game/)
