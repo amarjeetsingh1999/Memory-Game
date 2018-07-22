@@ -13,6 +13,12 @@
   - Ok to close the modal and return to the completed game screen
   - Play again to restart the game
 
+# Fonts Source
+* [Google Fonts](https://fonts.google.com/)
+
+# Icons Source
+* [Font Awesome](https://fontawesome.com/v4.7.0/)
+
 # Animations Source
 * https://daneden.github.io/animate.css/
 
