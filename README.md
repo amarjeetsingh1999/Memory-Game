@@ -13,4 +13,7 @@
   - Ok to close the modal and return to the completed game screen
   - Play again to restart the game
 
+# Animations Source
+* https://daneden.github.io/animate.css/
+
 GitHub pages link: [Memory Game](https://amarjeetsingh1999.github.io/Memory-Game/)
