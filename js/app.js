@@ -399,7 +399,6 @@ function resetGame() {
     resetStarsScore();
     setDeck();
     reInit();
-    openCardsArray = [];
 }
 
 /*
@@ -410,6 +409,7 @@ function reInit() {
     movesCounter.innerHTML = '';
     timeCounter.innerHTML = '00:00';
     moves = 0;
+    openCardsArray = [];
     setMoves();
     match = 0;
     resetTimer();
