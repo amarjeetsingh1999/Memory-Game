@@ -94,14 +94,6 @@ function setDeck() {
     setMoves();
     flipDown();
     startGame();
-
-    /* Peekaboo feature
-    flipUp();
-     setTimeout(flipDown(),10000);
-    setTimeout(function () {
-        flipDown();
-        startGame();
-    }, 500);*/
 }
 
 
@@ -407,6 +399,7 @@ function resetGame() {
     resetStarsScore();
     setDeck();
     reInit();
+    openCardsArray = [];
 }
 
 /*
