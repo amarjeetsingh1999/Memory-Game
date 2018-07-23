@@ -13,6 +13,11 @@
   - Ok to close the modal and return to the completed game screen
   - Play again to restart the game
 
+## Web Development Technologies used:
+* HTML
+* CSS
+* JavaScript
+
 ## Fonts Source
 * [Google Fonts](https://fonts.google.com/)
 
